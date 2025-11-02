@@ -1,7 +1,6 @@
 # Mars Ind — Personal GitHub (Nathan G. Norris)
 
-This is my personal GitHub account and portfolio. Mars Ind is a sole proprietorship (sole proprietor: Nathan G. Norris) — not an official corporate account.
-## About Me
+This is my personal GitHub account and portfolio.
 
 I'm Nathan G. Norris. I build software and tools across a range of domains including AI, 3D visualization, cybersecurity, and full‑stack development. My work focuses on practical, well-engineered solutions that solve complex problems and deliver strong user experiences.
 
