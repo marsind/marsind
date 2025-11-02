@@ -1,43 +1,33 @@
-Mars Industries 🚀🔴🛰️
+# Mars Ind — Personal GitHub (Nathan G. Norris)
 
-“Engineering tomorrow’s technology, today.”
+This is my personal GitHub account and portfolio. Mars Ind is a sole proprietorship (sole proprietor: Nathan G. Norris) — not an official corporate account. Even if I form an LLC in the future, this repository and this account will remain my personal account for projects, experiments, and portfolio work.
 
-📜 About Us
+## About Me
 
-At Mars Industries, we specialize in crafting advanced technologies and intuitive designs that redefine the boundaries of innovation. Our mission is to create scalable, efficient, and user-focused solutions that empower industries to embrace the future.
-From artificial intelligence to cybersecurity systems and 3D visualization, we engineer technologies that solve complex problems while delivering seamless user experiences. Mars Industries is where creativity meets precision, and ideas become reality.
+I'm Nathan G. Norris. I build software and tools across a range of domains including AI, 3D visualization, cybersecurity, and full‑stack development. My work focuses on practical, well-engineered solutions that solve complex problems and deliver strong user experiences.
 
-🔧 Core Capabilities
+## What I Do / Core Capabilities
 
-Technology Development
-	•	Full-Stack Engineering: Expertise in Python, C#, JavaScript, HTML, and CSS for robust front-end and back-end solutions.
-	•	AI Innovation: Developing intelligent systems for automation, simulations, and data-driven insights.
-	•	API Integration: Delivering interconnected systems for optimized workflows.
+- Technology development & full‑stack engineering (Python, C#, JavaScript, HTML, CSS)
+- AI systems: automation, simulation tooling, and data-driven solutions
+- API design and integration for interoperable systems
+- UI/UX design: prototyping, wireframing, and accessible responsive interfaces
+- 3D visualization & simulation: modeling, texturing, and environment design (ZBrush, Maya, Substance Painter)
+- Cybersecurity: secure architecture, monitoring, and response tooling
 
-UI/UX Design
-	•	Creating intuitive and user-centered designs for applications and systems.
-	•	Prototyping, wireframing, and ensuring responsive, accessible interfaces.
+## Technologies & Tools
 
-3D Visualization & Simulation
-	•	High-fidelity modeling and texturing with ZBrush, Maya, and Substance Painter.
-	•	Supporting simulations, product designs, and virtual environments.
+- Languages & frameworks: Python, C#, JavaScript, HTML, CSS
+- Development & design: Unity, ZBrush, Maya, Substance Painter, Visual Studio Code
+- Collaboration & version control: GitHub, Replit
 
-Cybersecurity Solutions
-	•	Building secure platforms to protect data and critical infrastructure.
-	•	Developing monitoring and response systems for advanced threat defense.
+## Notes on Use
 
-🛠 Technologies & Tools
+- This repository and the work under it represent my personal projects and professional portfolio.
+- Repositories here are maintained by me personally (Nathan G. Norris) and are not intended to represent or bind any corporate entity.
+- If you need to reach me for collaborations, business inquiries, or licensing questions, please contact me through my GitHub profile or by opening an issue in the relevant repository.
 
-Languages & Frameworks
-	•	Python, C#, JavaScript, HTML, CSS
+---
 
-Development Tools
-	•	Unity Engine, ZBrush, Maya, Substance Painter, Visual Studio Code
-
-Version Control & Collaboration
-	•	GitHub, Replit
-
-🌌 Mission Statement
-
-At Mars Industries, we are committed to designing the tools and technologies of tomorrow. Through innovation and precision, we aim to transform industries by creating systems that are as intuitive as they are powerful. Our vision is to engineer the future—one breakthrough at a time.
-
+Nathan G. Norris  
+GitHub: @marsind
